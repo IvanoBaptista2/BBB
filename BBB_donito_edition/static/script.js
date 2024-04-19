@@ -18,8 +18,8 @@ document.getElementById('letterDisplay').addEventListener('click', function() {
         headers: {
             'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ text: 'start, give me one question from your list of categories' }), // Adjust according to your needs
-    })
+        body: JSON.stringify({ text: 'start, give me one question from your list of categories dont repeat yourself! LOOK AT THE LIST I GAVE YOU!'}), // Adjust according to your needs
+    })  
     .then(response => response.text()) // Use .text() instead of .json()
     .then(data => {
         document.getElementById('letterDisplay').textContent = data; // Directly use data

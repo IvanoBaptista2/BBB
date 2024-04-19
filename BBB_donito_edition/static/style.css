@@ -1,4 +1,14 @@
 body, html {
+    background-image: url('/static/expanded.png'); /* Adjust the path as needed */
+    background-size: cover; /* Cover the entire page */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    height: 100%; /* Minimum height */
+    width: 100%;
+    margin: 0; /* Remove default margin */
+}
+
+body, html {
     margin: 0;
     padding: 0;
     width: 100%;
@@ -12,18 +22,30 @@ body, html {
 }
 
 #letterDisplay {
-    font-size: 16px; /* Suitable for mobile devices */
+    font-size: 15px; /* Suitable for mobile devices */
     text-align: center;
     padding: 10px;
     margin: 20px auto;
-    border: 1px solid #000;
     display: block;
     width: 80%; /* Responsive width */
     max-width: 300px; /* Maximum width to ensure it doesn't get too wide on larger screens */
 }
-
+#app {
+    background: rgba(0,0,0,0.5);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    padding: 10px;
+    border: 1px solid rgba(0,0,0,0.25);
+    border-radius: 10px;
+    width: 300px;
+    height: 170px;
+}
 .letter-display {
     font-size: 5em; /* Adjust based on your preference */
     font-weight: bold;
     user-select: none; /* Prevents text selection on tap */
+}
+
+#MainLogo {
+    text-align: center;
 }

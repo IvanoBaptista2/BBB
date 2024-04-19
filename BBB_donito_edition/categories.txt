@@ -1,0 +1,134 @@
+    Entertainment and Pop Culture:
+        Een personage uit een boek/film
+        Een boek/cartoon/strip
+        Een film
+        Een personage uit een videospel
+        Een term uit een videospel
+        Een videospel
+        Een Pokemon
+        Iets sprookjesachtig
+        Een meme
+        Een bekend persoon
+        Een serie
+        Een item uit een videogame
+        Een fictief persoon
+        Een evenement/attractie
+        Een artiest
+        Een liedje/nummer
+
+    Games and Toys:
+        Speelgoed
+        Iets uit Minecraft
+        Een analoog spel
+
+    Personal Items and Apparel:
+        Iets dat in je zak past
+        Een kledingstuk/accessoire
+        Iets dat je in een portemonnee kan vinden
+
+    Physical Descriptions and Attributes:
+        Iets goedkoops
+        Iets groots
+        Iets kleins
+        Iets kleurloos
+        Iets kleurrijks
+        Iets plakkerigs
+        Iets eetbaars
+        Iets drinkbaars
+        Iets roods
+        Iets blauws
+        Iets geels
+        Iets duns
+        Iets hoogs
+
+    Nature and Geography:
+        Een stad of dorp
+        Een land
+        Een water of eiland
+        Een zeedier
+        Een zoogdier
+        Een dier met 4 poten
+        Een dier
+        Een huisdier
+
+    Language and Communication:
+        Een (niet Engels) buitenlands woord
+        Een afkorting
+        Straattaal
+
+    Religion and Mythology:
+        Een bijbels term/persoon/concept
+        Een god of godheid
+        Iets uit de mythologie
+
+    Business and Economy:
+        Een merk/bedrijf
+        Valuta
+
+    History and Education:
+        Iets uit de geschiedenis
+        Een studierichting
+        Iets wat je op school kan vinden
+
+    Sports and Leisure:
+        Een sportclub
+        Iets sportgerelateerds
+        Een voetballer
+        Iets wat je op vakantie kan doen
+
+    Occupations and Roles:
+        Een baan
+        Een wereldleider
+
+    General Objects and Items:
+        Een huishoudelijk object
+        Iets wat je op werk kan vinden
+        Iets wat je in een kroeg kan vinden
+        Iets wat je doodt als het op je valt
+        Iets wat je in de schuur kan vinden
+
+    Miscellaneous:
+        Iets waardoor je van je fiets kunt vallen
+        Iets gevaarlijks
+        Een monster
+        Iets duurs
+        Iets wat je kan beklimmen
+        Iets dat je liever niet in huis heb
+        Iets met een specifieke geur
+        Een type drugs
+        Een drankje
+        Een soort materiaal/element
+        Dingen die je in een bouwmarkt kan kopen
+        Dingen die je in een winkelcentrum kan kopen
+        Een computer term
+        Een voertuig
+        Een app
+        Een instrument
+        Iets warms\heets
+        Een soort kledingstuk
+        Een coffeeshop
+        Iets wat je doet als je stoned bent
+        Iets wat je in je zak kan meenemen uit de supermarkt
+        Topo
+        Eten uit de snackbar
+        Iets waar je op kunt zitten
+        Straattaal
+        Een soort kleur
+        Iets wat uitgevonden is
+        Een soort bier
+        Iets wat licht is
+        Een letter uit het alfabet
+        Een winkel
+
+    Names and Terms:
+        Een mannennaam
+        Een vrouwennaam
+        Een achternaam
+        Een jongens naam
+        Een meiden naam
+
+    Offensive or Sensitive Content:
+        Een k*nker lijer
+        Iets baapgerelateerds
+        Iets wat jij dood kan maken
+        Iets wat je doodmaakt als het van 10 meter hoog op je valt
